@@ -7,3 +7,7 @@ I am learning how to use Github，and have added a title.
 ```javascript
 var myVar = "Hello,world!~";
 ```
+### THIS IS MY TASK LIST!
+- [ ]  Turn on GitHub Pages
+- [ ]  Continuous learning on GitHub platform
+- [ ]  Exercise two to three times a week
